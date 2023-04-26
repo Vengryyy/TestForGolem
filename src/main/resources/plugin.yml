@@ -1,0 +1,7 @@
+name: TestForGolem
+version: '${project.version}'
+main: la.vengryyy.testforgolem.Main
+api-version: 1.19
+commands:
+  quests:
+  skiptime:
